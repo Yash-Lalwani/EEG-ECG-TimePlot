@@ -103,3 +103,4 @@ Given more time, I would add:
 ---
 
 ## 📸 Screenshots
+![Demo GIF](plot.gif)
